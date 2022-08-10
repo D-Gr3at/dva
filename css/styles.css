@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto Mono', monospace; */
+}
+
+.map-size{
+    width: 100%;
+    height: 100%;
+}
